@@ -1,4 +1,4 @@
 # Covid-19-News
-Scrape corona updates with total cases, deaths, recovered in world and fetch details about a specific country.
+Scrape covid-19 updates with total cases, deaths, recovered in world and fetch details about a specific country.
 
-![Screenshot (36)](https://user-images.githubusercontent.com/34830693/79360721-f0661a80-7f61-11ea-81a8-accd3377c2cd.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/34830693/87334308-13ea3280-c55c-11ea-8b8f-0a9e370d8afd.png)
