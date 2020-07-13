@@ -4,7 +4,7 @@ import argparse
 from colorama import Fore
 
 parser = argparse.ArgumentParser(description="Covid-19 News")
-parser.add_argument('-c', "--country", action='store_true', dest="country", required="True", help="Specify a country name")
+parser.add_argument('-c', "--country", action='store', dest="country", metavar='', required="True", help="Specify a country name")
 args = parser.parse_args()
 country = args.country
 country = country.lower()
